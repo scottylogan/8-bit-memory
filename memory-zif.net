@@ -1,6 +1,6 @@
 (export (version D)
   (design
-    (source /Volumes/Stuff/Dropbox/Electronics/Projects/Retro/memory/memory.sch)
+    (source /Volumes/Stuff/Dropbox/Electronics/Projects/Retro/memory-zif/memory-zif.sch)
     (date "Monday, December 28, 2020 at 04:03:15 AM")
     (tool "Eeschema (5.1.8-0-10_14)")
     (sheet (number 1) (name /) (tstamps /)
@@ -9,7 +9,7 @@
         (company)
         (rev)
         (date 2020-12-28)
-        (source memory.sch)
+        (source memory-zif.sch)
         (comment (number 1) (value ""))
         (comment (number 2) (value ""))
         (comment (number 3) (value ""))
